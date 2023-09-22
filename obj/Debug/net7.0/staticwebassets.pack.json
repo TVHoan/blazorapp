@@ -1,0 +1,285 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BlazorAppBlog.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlazorAppBlog.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\css\\icomoon.css",
+      "PackagePath": "staticwebassets\\css\\icomoon.css"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\fonts\\IcoMoon-Free.ttf",
+      "PackagePath": "staticwebassets\\fonts\\IcoMoon-Free.ttf"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\fonts\\Poppins-Black.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\fonts\\Poppins-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\fonts\\Poppins-Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\fonts\\Poppins-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\fonts\\Poppins-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\fonts\\Poppins-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\fonts\\Poppins-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\fonts\\Poppins-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\fonts\\Poppins-Italic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\fonts\\Poppins-Light.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\fonts\\Poppins-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\fonts\\Poppins-Medium.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\fonts\\Poppins-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\fonts\\Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\fonts\\Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\fonts\\Poppins-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\fonts\\Poppins-Thin.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-Thin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\fonts\\Poppins-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Poppins-ThinItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\images\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\images\\about.png",
+      "PackagePath": "staticwebassets\\images\\about.png"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\images\\about_bg.jpg",
+      "PackagePath": "staticwebassets\\images\\about_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\images\\banner_img.png",
+      "PackagePath": "staticwebassets\\images\\banner_img.png"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\images\\class1.png",
+      "PackagePath": "staticwebassets\\images\\class1.png"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\images\\class2.png",
+      "PackagePath": "staticwebassets\\images\\class2.png"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\images\\class3.png",
+      "PackagePath": "staticwebassets\\images\\class3.png"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\images\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\images\\menu_icon.png",
+      "PackagePath": "staticwebassets\\images\\menu_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\images\\sakt1.png",
+      "PackagePath": "staticwebassets\\images\\sakt1.png"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\images\\sakt2.png",
+      "PackagePath": "staticwebassets\\images\\sakt2.png"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\images\\sakt3.png",
+      "PackagePath": "staticwebassets\\images\\sakt3.png"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\images\\shop.png",
+      "PackagePath": "staticwebassets\\images\\shop.png"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\images\\te.png",
+      "PackagePath": "staticwebassets\\images\\te.png"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\images\\te2.png",
+      "PackagePath": "staticwebassets\\images\\te2.png"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\images\\test1.png",
+      "PackagePath": "staticwebassets\\images\\test1.png"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\images\\test2.png",
+      "PackagePath": "staticwebassets\\images\\test2.png"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\images\\test3.png",
+      "PackagePath": "staticwebassets\\images\\test3.png"
+    },
+    {
+      "Id": "C:\\Users\\THGROUP1\\Documents\\BlazorAppBlog\\wwwroot\\images\\top_icon.png",
+      "PackagePath": "staticwebassets\\images\\top_icon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BlazorAppBlog.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BlazorAppBlog.props",
+      "PackagePath": "build\\BlazorAppBlog.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorAppBlog.props",
+      "PackagePath": "buildMultiTargeting\\BlazorAppBlog.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BlazorAppBlog.props",
+      "PackagePath": "buildTransitive\\BlazorAppBlog.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
